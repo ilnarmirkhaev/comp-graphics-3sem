@@ -1,0 +1,15 @@
+/*@font-face {*/
+/*    font-family: "OCR A Std";*/
+/*    src: url(OCRAStd.otf);*/
+/*}*/
+
+canvas {
+    display: block;
+    margin: 1em auto;
+    border: 4px solid black;
+    background: #6D785C;
+}
+
+body {
+    background: white;
+}
